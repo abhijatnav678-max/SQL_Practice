@@ -16,3 +16,5 @@ My SQL practice and solutions while learning SQL through SQLBolt.
 - Lesson 10 — Queries with Aggregates PT.1
 - Lesson 11 — Queries with Aggregates PT.2
 - Lesson 12 — Order of executing of a query
+- Lesson 13 — Inserting row
+- Lesson 14 — Updating rows
