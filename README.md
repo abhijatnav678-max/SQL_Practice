@@ -18,3 +18,7 @@ My SQL practice and solutions while learning SQL through SQLBolt.
 - Lesson 12 — Order of executing of a query
 - Lesson 13 — Inserting row
 - Lesson 14 — Updating rows
+- Lesson 15 — Deleting Rows
+- Lesson 16 — Creating Tables
+- Lesson 17 — Altering table
+- Lesson 18 — Deleting table
